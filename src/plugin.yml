@@ -1,0 +1,14 @@
+name: Potato_Smash
+description: Hot Potato game for Travi5's Server
+author: Travi5
+main: me.travi5.potatosmash.PotatoSmash
+version: 1.0
+permissions:
+  minigame.mod:
+    description: Create and modify minigames by Travi5
+    default: false
+commands:
+  PotatoSmash:
+    description: Generic Command
+  PS:
+    description: Generic Command
